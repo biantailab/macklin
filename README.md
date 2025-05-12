@@ -1,9 +1,6 @@
-# 麦克林龙神水
+# [麦克林龙神水](https://biantailab.github.io/macklin)
 
-## [桌面端](https://biantailab.github.io/macklin)&[移动端](https://biantailab.github.io/macklin/pages/)
-
-| ![macklin Longshen hydroxide pc](imgs/longshen_hydroxide_pc.png) | ![macklin Longshen hydroxide phone](imgs/longshen_hydroxide_phone.png) |
-|---|---|
+![macklin Longshen hydroxide pc](imgs/longshen_hydroxide_pc.png)
 
 ## 实物
 
